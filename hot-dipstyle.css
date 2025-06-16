@@ -1,0 +1,35 @@
+#hot-dip.main-hotdip{
+    max-width: 96%;
+    padding: 30px;
+    background-color: #94c1b980;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+    line-height: 1.7;
+    margin: 8% 5% 5% 5%;
+    text-align: center;
+}
+
+.main-hotdip h3 {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  color: #005b4d;;
+}
+
+.main-hotdip h4 {
+  margin-top: 30px;
+  font-size: 22px;
+  color: #005b4d;;
+}
+
+.main-hotdip ul {
+  margin-top: 10px;
+  padding-left: 20px;
+  align-self: center;
+}
+
+.main-hotdip li {
+  margin-bottom: 10px;
+}

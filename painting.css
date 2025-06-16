@@ -1,0 +1,135 @@
+.main-paint {
+
+
+  background-color: #00000017;
+  border-radius: 10px;
+  font-family: 'Arial', sans-serif;
+  color: #2a2a2a;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  line-height: 1.7;
+
+    padding: 20px;
+    position: relative;
+     margin: 8% 5% 5% 5%;
+    text-align: center;
+}
+.surface-prep-std p{
+    padding: 65px 0px 0px 0px;
+        border-radius : 8px;
+        width: 100%;
+        height: 300px;
+        position: relative;
+        background: #48887e80;
+        line-height: 2.5;
+        font-size: 1.1rem;
+        color: white;
+}
+.surface-prep-std{
+  padding:20px
+}
+.surface-prep-std h3{
+  padding:20px
+}
+.sub-surface{
+    border: 1px solid green;
+    padding: 30px;
+    margin: 25px;
+}
+.main-paint h3,
+.main-paint h4 {
+ color: #005b4d;;
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  
+}
+
+.main-paint h5 {
+ color: #005b4d;;
+  margin-bottom: 15px;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+
+
+.paint-images {
+  display: flex;
+  gap: 25px;
+  margin: 30px 70px;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.paint-images img {
+   width: 500px;
+  height: 300px;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+}
+.blasting-img1{
+  flex: 1;
+  width: 500px;
+  height: 300px;
+}
+.blasting-img2{
+  flex: 1;
+ width: 500px;
+  height: 300px;
+}
+.paint-image-single {
+  text-align: center;
+  margin: 30px 0 10px;
+}
+
+.paint-image-single img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 8px;
+  padding-bottom: 30px;
+}
+.sub-work{
+        padding: 65px 0px 0px 0px;
+        border-radius : 8px;
+        width: 100%;
+        height: auto;
+        position: relative;
+        background: #48887e80;
+        line-height: 2.5;
+        font-size: 1.1rem;
+        color: white;
+       
+}
+.sub-work p{
+  padding: 5px;
+}
+.sub-work p strong{
+  margin-top: 20px;
+}
+.working-profile h4{
+  padding: 20px;
+}
+.working-profile{
+    border: 1px solid green;
+    padding: 30px;
+    margin: 25px;
+}
+.paint-application{
+    border: 1px solid green;
+    padding: 30px;
+    margin: 25px;
+}
+.paint-application h4{
+  padding: 20px;
+}
+.sub-paintapp{
+           padding: 65px 0px 0px 0px;
+        border-radius : 8px;
+        width: 100%;
+        height: auto;
+        position: relative;
+        background: #48887e80;
+        line-height: 2.5;
+        font-size: 1.1rem;
+        color: white;
+}

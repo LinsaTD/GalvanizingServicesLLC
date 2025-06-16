@@ -1,0 +1,73 @@
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-family: Arial, sans-serif;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+#facility-main{
+    background-color: #00000017;
+    padding: 20px;
+    margin: 5%;
+    position: relative;
+    margin-top: 8%;
+}
+#facility-main h1,
+#facility-main h2{
+    font-size: 1.5rem;
+    margin: 20px;
+    text-align: center;
+    color: #005b4d;
+    padding: 20px;
+}
+#facility-main p{
+  text-align: justify;
+}
+.certificates{
+  margin: 50px;
+  padding-top: 20px;
+  border: 1px solid #005b4d;
+}
+.certificates img{
+  width: 390px;
+  height: auto;
+}
+.certificate-section1{
+  display:flex ;
+  flex-direction:row ;
+  margin: 20px;
+  gap: 5px;
+}
+.iso-image1,.iso-image2,.iso-image3{
+  flex:1;
+}
+.certificates-section2{
+  display:flex ;
+  flex-direction: row;
+  margin: 20px;
+  gap: 5px;
+}
+.certificate-image1,.certificate-image2,.certificate-image3{
+  flex: 1;
+}
+.british-quality{
+  padding-top: 20px;
+}

@@ -1,0 +1,83 @@
+
+.nav{
+    background-color:#005b4db3;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    z-index: 1;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+a.nav-link{
+    color: #ebe7e7;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #354e56;  
+    color: #ffffff !important;  
+  }
+  .logo-name{
+   position: absolute;
+   left: 0;
+  }
+  .nav-link:hover{
+    color: aquamarine;
+  }
+  .nav-item a{
+    font-size: 18px;
+
+  }
+.title{
+      transform: translate(25%, 100%);
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active
+{
+  color: #495057;
+    background-color: transparent;
+    border-color:transparent;
+}
+
+.nav-tabs .nav-link {
+  border: 0px transparent;
+}
+#projects{
+    background-color: #00000017;
+    padding: 20px;
+    margin: 5%;
+    position: relative;
+    margin-top: 8%;
+}
+#projects h1{
+        text-align: center;
+    color: #005b4d;
+    font-size: 1.7rem;
+    font-weight: 500;
+        padding: 25px;
+    margin-top: 20px;
+}
+
+.projects-list {
+    display: flex;
+   
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style-type: none;
+    padding: 0;
+    justify-content: center;
+}
+
+.projects-list li {
+    background-color: #49897f54;
+    color: #005b4d;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    width: 70%;
+    text-align: center;
+}
