@@ -14,7 +14,7 @@ body {
   min-height: 100vh;
 }
 .nav{
-      background-color:#005b4db3;
+      background-color:#3f638fb3;
       position: fixed;
       width: 100%;
       top: 0px;
@@ -551,3 +551,4 @@ footer {
     margin: 0 10px;
   }
 }
+
